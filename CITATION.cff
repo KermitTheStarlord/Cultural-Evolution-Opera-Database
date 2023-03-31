@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Andres"
+  given-names: "Paulin"
+- family-names: "Bert"
+  given-names: "Arthur"
+- family-names: "Chowdhury"
+  given-names: "Akash"
+title: "Adapted Cultural-Evolution-Opera-Database"
+version: 1.0.0
+date-released: 2023-03-31
+url: "https://github.com/KermitTheStarlord/Cultural-Evolution-Opera-Database"
